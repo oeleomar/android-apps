@@ -8,4 +8,12 @@
     <string name="year">2019</string>
     <string name="min_age">+14</string>
     <string name="number_temps">3 temporadas</string>
+    <string name="episodio_title">T1:E1 \"Queria muito que você estivesse aqui\"</string>
+    <string name="episodio_description">Arassado com a morte da esposa, um policia ambiental se envolve no misterioso aparecimento de um boto-cor-de-rosa em uma praia do Rio de Janeiro.</string>
+    <string name="episodio_actors">Estrelando: Marcos Pigossi, Manu Dieguez, Alessandra Negrini, Letícia Spiller.</string>
+    <string name="episodio_director">Criação: Carlos Saldanha</string>
+    <string name="my_list">Minha Lista</string>
+    <string name="rank">Classificar</string>
+    <string name="share">Compartilhar</string>
+    <string name="download_all">Baixar Temporada 1</string>
 </resources>
